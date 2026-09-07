@@ -1,0 +1,17 @@
+{
+  "model_name": "Random Forest",
+  "target": "ProdTaken",
+  "selection_metric": "roc_auc",
+  "best_parameters": {
+    "model__max_depth": 20,
+    "model__min_samples_leaf": 1,
+    "model__n_estimators": 150
+  },
+  "metrics": {
+    "Accuracy": 0.9128329297820823,
+    "Precision": 0.9484536082474226,
+    "Recall": 0.5786163522012578,
+    "F1": 0.71875,
+    "ROC-AUC": 0.9744420242708834
+  }
+}
