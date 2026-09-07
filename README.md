@@ -2,4 +2,14 @@
 
 MLOps project covering data registration, data preparation, model tuning/evaluation, Hugging Face model registration, Streamlit deployment, and GitHub Actions CI/CD.
 
-Required GitHub secrets: HF_TOKEN, HF_USERNAME, HF_MODEL_REPO, HF_SPACE_REPO.
+GitHub Repository:
+https://github.com/a-th-a-rv-a/VisitWithUs-MLOps
+
+Hugging Face Dataset:
+athk3/tourism-wellness-dataset
+
+Hugging Face Model:
+athk3/tourism-wellness-model
+
+Streamlit Application:
+[YOUR STREAMLIT URL](https://visitwithus-mlops-i46fwxju2zzuz9npkp5qpw.streamlit.app/)
